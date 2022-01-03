@@ -1,0 +1,6 @@
+Git add-Atualiza o índece utilizando o conteúdo atual para preparar o
+conteúdo para o próximo commit
+Git commit- Faz comentario sobre a alteração do aruivo que sera enviado
+para o repositório GitHub
+Git push- "Empurra" Arquivos para o repositório do GitHub
+Git pull- Copia um repositório para a maquina
